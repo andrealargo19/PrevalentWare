@@ -1,0 +1,44 @@
+.tittle-init{
+    width: 270px;
+    margin: 10px auto;
+    text-align: left;
+    padding-bottom: 15px;
+    padding-top:20px;
+}
+
+.tittle-init h4 {
+    width: 263px;
+    font-family:'Roboto', sans-serif;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0;
+    text-align: left;
+
+}
+.tittle-init h4 span {
+    color: #26B4FF;
+    cursor: pointer;
+}
+.container-icons {
+    width: 300px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: center;
+    
+}
+.container-icons-title {
+    height: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0px;
+    color:rgba(82, 82, 82, 1);
+}

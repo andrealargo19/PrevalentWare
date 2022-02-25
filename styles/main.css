@@ -1,0 +1,12 @@
+.container-main-cards{
+    @apply md:flex md:flex-wrap lg:flex lg:flex-wrap xl:flex xl:flex-wrap 2xl:flex 2xl:flex-wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.container-individual-cards {
+    @apply w-11/12;
+    max-width: 350px;
+    min-width: 320px;
+    margin: 0 auto;
+}

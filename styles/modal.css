@@ -1,0 +1,10 @@
+
+.modal-container-documents{
+    @apply visible;
+    height: 350px;
+    max-width: 680px;
+    margin: 5px auto;
+    background-color: rgba(255, 254, 254, 1);
+    border-radius: 8px;
+    
+};
